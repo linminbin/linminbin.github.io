@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/min-bin-lin">PhD researcher</a>. Humboldt University of Berlin, Germany.
+description: Postdoc researcher
 
 profile:
   align: right
