@@ -10,8 +10,7 @@ profile:
   address: <p>&#160;</p>
   # address: >
   #   <p>R 003</p>
-  #   <p>Dorotheenstr. 1</p>
-  #   <p>10117 Berlin, Germany</p>
+  #   <p>10117 Karlsruhe, Germany</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
